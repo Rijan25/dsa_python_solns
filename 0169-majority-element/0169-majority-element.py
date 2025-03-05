@@ -8,6 +8,16 @@ class Solution:
             else:
                 count[num]=1
             if(count[num]>majority):
-                return num
+                return num    
+               
+        # count={}
+        # majority=len(nums)//2
+        # for num in nums:
+        #     if num in count:
+        #         count[num]+=1
+        #     else:
+        #         count[num]=1
+        #     if(count[num]>majority):
+        #         return num
 
         
