@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rijan25/dsa_python_solns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rijan25/dsa_python_solns/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rijan25/dsa_python_solns/tree/master/0283-move-zeroes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rijan25/dsa_python_solns/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2486-most-frequent-even-element](https://github.com/Rijan25/dsa_python_solns/tree/master/2486-most-frequent-even-element) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rijan25/dsa_python_solns/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 | [2486-most-frequent-even-element](https://github.com/Rijan25/dsa_python_solns/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rijan25/dsa_python_solns/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -52,12 +55,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rijan25/dsa_python_solns/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rijan25/dsa_python_solns/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
