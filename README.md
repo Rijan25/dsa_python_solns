@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rijan25/dsa_python_solns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rijan25/dsa_python_solns/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Rijan25/dsa_python_solns/tree/master/0283-move-zeroes) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Rijan25/dsa_python_solns/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2486-most-frequent-even-element](https://github.com/Rijan25/dsa_python_solns/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/Rijan25/dsa_python_solns/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
