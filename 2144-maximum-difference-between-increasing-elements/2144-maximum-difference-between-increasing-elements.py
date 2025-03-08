@@ -5,7 +5,7 @@ class Solution:
         for l in range(1,len(nums)):
             diff=max(diff,nums[l]-mins)
             mins=min(mins,nums[l])
-        return diff  if diff!=0 else -1   
+        return diff if diff!=0 else -1   
 
              
            
