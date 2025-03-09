@@ -13,19 +13,20 @@ class Solution:
                 start+=1
                 end-=1
 
-            reverse_array(0,n-1)
-            reverse_array(0,k-1)
-            reverse_array(k,n-1)    
+        reverse_array(0,n-1)
+        reverse_array(0,k-1)
+        reverse_array(k,n-1)
+               
 
 
 
         # Extra Space 
-        n=len(nums)
-        rotated=[0]*n
-        for index,num in enumerate(nums):
-            rotated[(index+k)%n]=nums[index]
-        nums[:]=rotated
-        return nums    
+        # n=len(nums)
+        # rotated=[0]*n
+        # for index,num in enumerate(nums):
+        #     rotated[(index+k)%n]=nums[index]
+        # nums[:]=rotated
+        # return nums    
 
 
         
