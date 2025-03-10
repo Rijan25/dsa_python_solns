@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rijan25/dsa_python_solns/tree/master/0283-move-zeroes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Rijan25/dsa_python_solns/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Rijan25/dsa_python_solns/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2486-most-frequent-even-element](https://github.com/Rijan25/dsa_python_solns/tree/master/2486-most-frequent-even-element) |
 | [2551-apply-operations-to-an-array](https://github.com/Rijan25/dsa_python_solns/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rijan25/dsa_python_solns/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rijan25/dsa_python_solns/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Rijan25/dsa_python_solns/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
