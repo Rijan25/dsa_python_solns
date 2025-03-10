@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Rijan25/dsa_python_solns/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Rijan25/dsa_python_solns/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rijan25/dsa_python_solns/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Rijan25/dsa_python_solns/tree/master/0392-is-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/Rijan25/dsa_python_solns/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rijan25/dsa_python_solns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rijan25/dsa_python_solns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Rijan25/dsa_python_solns/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rijan25/dsa_python_solns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rijan25/dsa_python_solns/tree/master/0334-increasing-triplet-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Rijan25/dsa_python_solns/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
