@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rijan25/dsa_python_solns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rijan25/dsa_python_solns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/Rijan25/dsa_python_solns/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Rijan25/dsa_python_solns/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Rijan25/dsa_python_solns/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Rijan25/dsa_python_solns/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
 | ------- |
