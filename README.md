@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rijan25/dsa_python_solns/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Rijan25/dsa_python_solns/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rijan25/dsa_python_solns/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Rijan25/dsa_python_solns/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Rijan25/dsa_python_solns/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Rijan25/dsa_python_solns/tree/master/0338-counting-bits) |
