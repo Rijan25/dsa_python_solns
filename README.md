@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rijan25/dsa_python_solns/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Rijan25/dsa_python_solns/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Rijan25/dsa_python_solns/tree/master/0371-sum-of-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rijan25/dsa_python_solns/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Bit Manipulation
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Rijan25/dsa_python_solns/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Rijan25/dsa_python_solns/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/Rijan25/dsa_python_solns/tree/master/0371-sum-of-two-integers) |
 ## Prefix Sum
 |  |
 | ------- |
