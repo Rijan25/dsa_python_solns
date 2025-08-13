@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rijan25/dsa_python_solns/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rijan25/dsa_python_solns/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Rijan25/dsa_python_solns/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rijan25/dsa_python_solns/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Rijan25/dsa_python_solns/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rijan25/dsa_python_solns/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rijan25/dsa_python_solns/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rijan25/dsa_python_solns/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 | [2486-most-frequent-even-element](https://github.com/Rijan25/dsa_python_solns/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rijan25/dsa_python_solns/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Rijan25/dsa_python_solns/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rijan25/dsa_python_solns/tree/master/0268-missing-number) |
 ## Counting
 |  |
