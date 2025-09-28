@@ -4,7 +4,7 @@ class Solution:
         # Hashmap Method
         from collections import Counter
         counts=Counter(nums)
-        majority=len(nums)/2
+        majority=len(nums)//2
         for num in nums:
             if counts[num]>majority:
                 return num
